@@ -1,4 +1,4 @@
-# Computational Literature Review Pipeline for Cellulose Nanofiber Research
+# Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
@@ -217,7 +217,7 @@ Example:
 
 Villadiego del Villar, A. E.
 
-Computational Literature Review Pipeline for Cellulose Nanofiber Research.
+Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research.
 
 Version 1.0.0.
 
@@ -231,7 +231,7 @@ https://doi.org/10.5281/zenodo.xxxxxxx
 
 **Alfredo Enrique Villadiego del Villar**
 
-PhD Candidate (IFUdG Doctoral Programme)
+PhD Candidate (2025 IFUdG Doctoral Programme)
 
 LEPAMAP–PRODIS Research Group
 
@@ -253,7 +253,7 @@ alfredo.villadiego@udg.edu
 
 GitHub:
 
-<GitHub repository URL>
+[<GitHub repository URL>](https://github.com/aevilladel97/Computational-Semantic-Literature-Analysis-Pipeline-for-Cellulose-Nanofiber-Research)
 
 Zenodo:
 
