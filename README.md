@@ -222,7 +222,7 @@ Villadiego del Villar, A. E.
 
 Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research.
 
-Version 1.0.1.
+Version 1.0.2.
 
 Zenodo.
 https://doi.org/10.5281/zenodo.21278587
