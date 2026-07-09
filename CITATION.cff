@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+
+title: "Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research"
+
+type: software
+
+authors:
+  - family-names: "Villadiego del Villar"
+    given-names: "Alfredo Enrique"
+    affiliation: "LEPAMAP–PRODIS Research Group, Universitat de Girona"
+    email: "alfredo.villadiego@udg.edu"
+    orcid: "https://orcid.org/TU_ORCID"
+
+version: "1.0.0"
+
+date-released: 2026-07-09
+
+license: "AGPL-3.0-or-later"
+
+repository-code: "https://github.com/aevilladel97/Computational-Semantic-Literature-Analysis-Pipeline-for-Cellulose-Nanofiber-Research"
+
+abstract: 
+  Google Colab workflow for computational semantic analysis of
+  cellulose nanofiber literature using the Zotero Web API,
+  BERTopic, UMAP, HDBSCAN, sentence embeddings,
+  multilingual sentiment analysis, and computational
+  methodological rigor assessment.
+
+keywords:
+  - cellulose nanofibers
+  - cellulose nanofiber
+  - nanocellulose
+  - natural language processing
+  - topic modeling
+  - BERTopic
+  - semantic analysis
+  - literature review
+  - bibliometrics
+  - computational science
+  - Zotero API
+  - UMAP
+  - HDBSCAN
+
+language: en
