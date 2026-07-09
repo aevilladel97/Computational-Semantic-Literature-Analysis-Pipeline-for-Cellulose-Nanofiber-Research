@@ -1,7 +1,11 @@
 # =============================================================================
 # Computational Literature Review Pipeline for Cellulose Nanofiber Research
-# Python >= 3.12
-# Environment used: Google Colab (2026)
+#
+# Runtime:
+#   Google Colab (Python 3.12)
+#
+# This file documents the package versions used to generate the published
+# analyses. Packages are automatically installed within the notebook.
 # =============================================================================
 
 adjustText==1.4.0
@@ -15,7 +19,6 @@ numpy==2.0.2
 pandas==2.2.2
 plotly==5.24.1
 pyzotero==1.13.2
-rispy==0.10.0
 scikit-learn==1.6.1
 scipy==1.16.3
 sentence-transformers==5.6.0
