@@ -224,7 +224,7 @@ Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Rese
 Version 1.0.1.
 
 Zenodo.
-https://doi.org/10.5281/zenodo.21278588
+https://doi.org/10.5281/zenodo.21278587
 
 ---
 
@@ -256,4 +256,4 @@ GitHub:
 https://github.com/aevilladel97/Computational-Semantic-Literature-Analysis-Pipeline-for-Cellulose-Nanofiber-Research
 
 Zenodo:
-https://doi.org/10.5281/zenodo.21278588
+https://doi.org/10.5281/zenodo.21278587
