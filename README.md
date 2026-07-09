@@ -2,6 +2,8 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 [![DOI](https://shields.io)](https://doi.org)
+* **Repository DOI:** [10.5281/zenodo.21278588](https://doi.org)
+* **Access Status:** 🔒 **Embargoed Access** (Temporarily restricted for peer-review purposes. Full open access will be automatically granted upon manuscript publication or embargo expiration).
 
 ---
 
