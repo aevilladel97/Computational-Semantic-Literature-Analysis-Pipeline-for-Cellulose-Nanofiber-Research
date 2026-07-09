@@ -1,7 +1,7 @@
 # Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://doi.org/10.5281/zenodo.21278588)
 
 ---
 
@@ -221,11 +221,10 @@ Villadiego del Villar, A. E.
 
 Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research.
 
-Version 1.0.0.
+Version 1.0.1.
 
 Zenodo.
-
-https://doi.org/10.5281/zenodo.xxxxxxx
+https://doi.org/10.5281/zenodo.21278588
 
 ---
 
@@ -258,4 +257,4 @@ https://github.com/aevilladel97/Computational-Semantic-Literature-Analysis-Pipel
 
 Zenodo:
 
-https://doi.org/10.5281/zenodo.xxxxxxx
+https://doi.org/10.5281/zenodo.21278588
