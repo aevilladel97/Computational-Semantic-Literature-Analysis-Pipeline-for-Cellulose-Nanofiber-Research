@@ -1,5 +1,5 @@
 # =============================================================================
-# Computational Literature Review Pipeline for Cellulose Nanofiber Research
+# Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research
 #
 # Runtime:
 #   Google Colab (Python 3.12)
