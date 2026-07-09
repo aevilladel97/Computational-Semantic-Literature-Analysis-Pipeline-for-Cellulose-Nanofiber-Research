@@ -252,8 +252,7 @@ alfredo.villadiego@udg.edu
 ## Repository
 
 GitHub:
-
-[<GitHub repository URL>](https://github.com/aevilladel97/Computational-Semantic-Literature-Analysis-Pipeline-for-Cellulose-Nanofiber-Research)
+https://github.com/aevilladel97/Computational-Semantic-Literature-Analysis-Pipeline-for-Cellulose-Nanofiber-Research
 
 Zenodo:
 
