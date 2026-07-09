@@ -1,0 +1,68 @@
+# ==========================================================
+# Computational Literature Review Pipeline
+# Google Colab / Jupyter
+# ==========================================================
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary Python environments
+.env
+.venv/
+venv/
+
+# IDE configuration
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Google Colab
+/content/
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+token.json
+
+# Zotero API credentials
+zotero_api_key.txt
+config.py
+
+# Cache
+.cache/
+
+# Matplotlib cache
+.matplotlib/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
