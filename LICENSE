@@ -618,40 +618,64 @@ copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
 
-            How to Apply These Terms to Your New Programs
+              How to Apply These Terms to Your New Programs
 
-  If you develop a new program, and you want it to be of the greatest
-possible use to the public, the best way to achieve this is to make it
-free software which everyone can redistribute and change under these terms.
+If you develop a new program, and you want it to be of the greatest possible
+use to the public, the best way to achieve this is to make it free software 
+which everyone can redistribute and change under these terms. 
 
-  To do so, attach the following notices to the program.  It is safest
-to attach them to the start of each source file to most effectively
-state the exclusion of warranty; and each file should have at least
-the "copyright" line and a pointer to where the full notice is found.
+To do so, attach the following notices to the program. It is safest to attach
+them to the start of each source file to most effectively state the exclusion
+of warranty; and each file should have at least the "copyright" line and a 
+pointer to where the full notice is found.
 
-"Systematic review and semantic analysis of literature: Cellulose nanofibers and TOCNF".
-This sofware connects to zotero library through API and performs a benchmarking of 
-semantic models (DistilBert and MatSciBert) for topics identification and clustering by 
-semantic proximity via NLP code. Additionally, the code produces comprehensive summary plots
-for semantic proximity, hierarchical structuring, literature rigor screening as for
-PRISMA 2020 compliant checklist and literature UMAP clustering.
+Computational Literature Review Pipeline for Cellulose Nanofiber Research
 
-Copyright (C) 2026  Alfredo Enrique Villadiego del Villar / Universitat de Girona
+Copyright (C) 2026 Alfredo Enrique Villadiego del Villar
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+This software retrieves bibliographic records from a Zotero library using
+the Zotero Web API and performs computational literature analysis through
+Natural Language Processing (NLP), semantic embedding generation,
+topic modeling, density-based clustering, sentiment analysis,
+methodological rigor assessment, and publication-ready visualization
+of the scientific literature.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU Affero General Public License for more details.
+The software was developed as part of the doctoral research of
+Alfredo Enrique Villadiego del Villar at the LEPAMAP–PRODIS Research Group,
+Universitat de Girona (Girona, Spain).
 
-    You should have received a copy of the GNU Affero General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Also add information on how to contact you by electronic and paper mail.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Contact information:
+
+Alfredo Enrique Villadiego del Villar
+LEPAMAP–PRODIS Research Group
+Universitat de Girona
+Campus Montilivi
+17003 Girona
+Spain
+
+Email:
+alfredo.villadiego@udg.edu
+
+Source code repository
+
+https://github.com/aevilladel97/Systematic-review-semantic-analysis-of-literature-Cellulose-nanofibers-and-TOCNF
+
+Archived release
+
+https://doi.org/10.5281/zenodo.xxxxxxx
 
   If your software can interact with users remotely through a computer
 network, you should also make sure that it provides a way for users to
