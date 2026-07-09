@@ -1,7 +1,7 @@
 # Computational Semantic Literature Analysis Pipeline for Cellulose Nanofiber Research
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
-[![DOI](https://doi.org/10.5281/zenodo.21278588)
+[![DOI](https://doi.org/10.5281/zenodo.21278588)](DOI)
 
 ---
 
