@@ -1,0 +1,89 @@
+Computational Literature Review Pipeline for Cellulose Nanofiber Research
+Version 1.0.0 (2026)
+
+Copyright (C) 2026 Alfredo Enrique Villadiego del Villar
+
+This repository contains the computational workflow developed for the
+systematic literature review, semantic mapping, topic modeling, sentiment
+analysis, and methodological rigor assessment of scientific literature on
+cellulose nanofibers (CNFs).
+
+The software retrieves bibliographic records directly from a Zotero library
+through the Zotero Web API and performs Natural Language Processing (NLP),
+semantic embedding generation, topic modeling (BERTopic), dimensionality
+reduction (UMAP), density-based clustering (HDBSCAN), sentiment analysis,
+bibliometric analysis, and publication-ready visualization.
+
+Author
+------
+Alfredo Enrique Villadiego del Villar
+PhD Candidate (2025 IFUdG Doctoral Programme)
+
+LEPAMAP–PRODIS Research Group
+Universitat de Girona
+Campus Montilivi
+17003 Girona
+Spain
+
+Email:
+alfredo.villadiego@udg.edu
+
+Repository
+----------
+GitHub:
+https://github.com/<your_username>/<repository_name>
+
+Zenodo DOI:
+https://doi.org/10.5281/zenodo.XXXXXXX
+
+Funding
+-------
+This software was developed within the 2025 IFUdG Doctoral Programme at the
+Universitat de Girona.
+
+The associated doctoral research received institutional support through:
+
+• Universitat de Girona
+• FUNDACIÓ EURECAT
+• Banco Santander
+
+The funding organizations had no role in the development of this software,
+its implementation, or the interpretation of the computational results,
+unless explicitly stated in the associated publication.
+
+License
+-------
+This software is distributed under the GNU Affero General Public License
+Version 3 (AGPL-3.0-or-later).
+
+A copy of the license is provided in the LICENSE file.
+
+Third-party software
+--------------------
+This project makes use of numerous open-source software packages,
+including (but not limited to):
+
+• BERTopic
+• Sentence Transformers
+• Hugging Face Transformers
+• PyTorch
+• UMAP-learn
+• HDBSCAN
+• Scikit-learn
+• Plotly
+• Matplotlib
+• pyzotero
+
+Please consult the requirements.txt file for the complete list of
+dependencies and versions used in this work.
+
+Disclaimer
+----------
+This repository accompanies a scientific publication. The software is
+provided "as is", without warranty of any kind, as described in the
+GNU Affero General Public License.
+
+Although every effort has been made to ensure reproducibility, future
+changes in external services (e.g., Zotero Web API), pretrained machine
+learning models, or software dependencies may produce results that differ
+slightly from those reported in the associated publication.
