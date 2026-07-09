@@ -20,7 +20,7 @@ license: "AGPL-3.0-or-later"
 
 repository-code: "https://github.com/aevilladel97/Computational-Semantic-Literature-Analysis-Pipeline-for-Cellulose-Nanofiber-Research"
 
-doi: https://doi.org/10.5281/zenodo.21278588
+doi: "https://doi.org/10.5281/zenodo.21278587"
 
 abstract: 
   Google Colab workflow for computational semantic analysis of
